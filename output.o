@@ -1,12 +1,12 @@
-making changes in the repo 
 
-<<<<<<< HEAD
-sdf 
 
-new changes 
-=======
+
+Conflicts chahiye
+
 sdf
 
+#include<source.h>
 
-more conflict
->>>>>>> a6393e20a4844c42d48be304f8999fcee645d6b5
+making changes in the repo
+
+ab changes main karunga @vector 
