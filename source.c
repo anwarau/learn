@@ -6,3 +6,5 @@ git log --pretty="%h %an"
 username is set to TanyaSingh now
 
 ad
+
+Eda mone sabiri Cheta
